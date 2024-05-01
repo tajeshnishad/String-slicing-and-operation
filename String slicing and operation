@@ -1,0 +1,16 @@
+name ='harry,sunny'
+print(name[0:10])
+print(len(name))#length of the string
+
+fruit = 'apple'
+apple= len(fruit)
+print('apple is a ',apple, 'letter word')
+print(fruit[0:3])
+print(fruit[:4])
+print(fruit[1:5])
+print(fruit[:])
+print(fruit[:-1])
+
+# ouick quiz
+nm = 'harry'
+print(nm[-4:-2])
